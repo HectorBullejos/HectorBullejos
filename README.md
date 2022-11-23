@@ -15,8 +15,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hectorbullejos&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🛹 Some visual work, Click to play.
+[<img src="https://user-images.githubusercontent.com/48176123/203529866-0e26393a-23b8-425e-b453-fbf94e90edc3.jpg" width="650" height="450" />](https://www.youtube.com/watch?v=YJeYK5Oxkvc)
+
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hectorbullejos&icon=7&color=11)](https://visitcount.itsvg.in)
