@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧮 I'm currently working on Computer Vision, BlockChain<br>and Time series predictive models.<br>👯‍♀️ I'm looking to collaborate on any web3/DL/Twitter project.<br>🌱 I'm currently learning about AWS/GCP/Azure ML as service.<br>💬 Ask me about anything you want.<br>⚡ Set up the one-and-only ES_Located OSMO server.<br><br>
+🧮 I'm currently working on Computer Vision, BlockChain and Time series predictive models.<br>👯‍♀️ I'm looking to collaborate on any web3/DL/Twitter project.<br>🌱 I'm currently learning about AWS/GCP/Azure ML as service.<br>💬 Ask me anything you want.<br>⚡ Set up the one-and-only ES_Located OSMO server.<br><br>
 
 
 ## 🌐 Socials:
